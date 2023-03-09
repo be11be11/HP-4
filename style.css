@@ -67,14 +67,13 @@
  }  
    
   .infobox {
-  margin: 10px;
-  width: 40%; 
-  height: 380px; 
+  width: 65%; 
+  height: 175px; 
   border:1px solid red; 
   background-image: url("jpg 店内 image 2.JPG");
   background-repeat: no-repeat;
   background-size: contain;
-  background-position: center,bottom; 
+  background-position: bottom,center; 
 }    
    
 /* 左寄せ共通するCSS */
@@ -186,15 +185,14 @@
 } 
 
   .infobox {
-  margin: 10px;
-  width: 40%; 
-  height: 380px; 
+  width: 65%; 
+  height: 325px; 
   border:1px solid red; 
   background-image: url("jpg 店内 image 2.JPG");
   background-repeat: no-repeat;
   background-size: contain;
-  background-position: center,bottom; 
-}    
+  background-position: bottom,center; 
+}  
 
  /* 左寄せ共通するCSS */
 .inbox img {
@@ -240,7 +238,7 @@
 @media screen and (min-width:1400px) and (max-width:2000px){
   .box {
      border:1px solid lime; 
-   margin: 15px;
+   margin: 5px;
   width: 100%;       /* 適当な幅を指定 */
   height: 1000px;       /* 適当な高さを指定 */
   position: relative; /* 基準位置とする */
@@ -305,15 +303,14 @@
 } 
    
   .infobox {
-  margin: 10px;
-  width: 40%; 
-  height: 380px; 
+  width: 65%; 
+  height: 500px; 
   border:1px solid red; 
   background-image: url("jpg 店内 image 2.JPG");
   background-repeat: no-repeat;
   background-size: contain;
-  background-position: center,bottom; 
-}    
+  background-position: bottom,center; 
+}     
 
  /* 左寄せ共通するCSS */
 .inbox img {
