@@ -7,18 +7,7 @@
   height: 350px;       /* 適当な高さを指定 */
   position: relative; /* 基準位置とする */
 }
-  
-   .minibox {
-  margin: 0px;
-  width: 100%; 
-  height: 730px; 
-  border:1px solid #70B35C15; 
-  background-image: url("jpg 店内 image 1.JPG");
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position: center; 
-}
-  
+
     .bar {
    position: fixed; /* 固定配置 */
    top: 10px;  /* 基点（ウィンドウ）からの距離 */
@@ -66,44 +55,36 @@
   right: 0;
  }  
    
-   .abox {
-  margin: 5px;
-  width: 30%; 
-  height: 500px; 
-  border:1px solid #40B4C4; 
-  background-image: url("jpg 店内 image 2.JPG"); 
-  background-repeat: no-repeat;
-  background-size: contain;
+/* 左寄せ共通するCSS */
+.inbox img {
+  border:1px solid #10B5C5; 
+  width: 45%;       /* 適当な幅を指定 */
+  position: absolute; /* 相対位置に指定 */
 }
-
-  .bbox {
-  margin: 5px;
-  width: 30%; 
-  height: 500px; 
-  border:1px solid #30B3C3; 
-  background-image: url("jpg メニュー image 1.jpg"); 
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-  .cbox {
-  margin: 5px;
-  width: 30%; 
-  height: 500px; 
-  border:1px solid #20B2C2; 
-  background-image: url("jpg emiko image 1.JPG"); 
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-
-  .dbox {
-  margin: 5px;
-  width: 30%; 
-  height: 500px; 
-  border:1px solid #10B10C10; 
-  background-image: url("jpg 店内 image 3.JPG"); 
-  background-repeat: no-repeat;
-  background-size: contain;
-}
+  .inbox .abox {
+  margin: 15px;
+  border:1px solid #70B35C15; 
+  bottom: 20;
+  left: 20; 
+}  
+  .inbox .bbox {
+  margin: 15px;
+  border:1px solid #70B35C15; 
+   top: 15;
+  left: 15;
+}  
+  .inbox .cbox {
+  margin: 15px;
+  border:1px solid #70B35C15; 
+   top: 15;
+  left: 15;
+}  
+  .inbox .dbox {
+   margin: 15px;
+  border:1px solid #70B35C15; 
+   top: 15;
+  left: 15;
+}  
 
    /* テキスト右寄*/
 .textbox {
@@ -186,44 +167,36 @@
   right: 0;
 } 
 
- .abox {
-  margin: 5px;
-  width: 30%; 
-  height: 500px; 
-  border:1px solid #93B4C4; 
-  background-image: url("jpg 店内 image 2.JPG"); 
-  background-repeat: no-repeat;
-  background-size: contain;
+ /* 左寄せ共通するCSS */
+.inbox img {
+  border:1px solid #10B5C5; 
+  width: 45%;       /* 適当な幅を指定 */
+  position: absolute; /* 相対位置に指定 */
 }
-
-  .bbox {
-  margin: 5px;
-  width: 30%; 
-  height: 500px; 
-  border:1px solid #93B4C4; 
-  background-image: url("jpg メニュー image 1.jpg"); 
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-  .cbox {
-  margin: 5px;
-  width: 30%; 
-  height: 500px; 
-  border:1px solid #93B4C4; 
-  background-image: url("jpg emiko image 1.JPG"); 
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-
-  .dbox {
-  margin: 5px;
-  width: 30%; 
-  height: 500px; 
-  border:1px solid #93B4C4; 
-  background-image: url("jpg 店内 image 3.JPG"); 
-  background-repeat: no-repeat;
-  background-size: contain;
-}
+  .inbox .abox {
+  margin: 15px;
+  border:1px solid #70B35C15; 
+  bottom: 20;
+  left: 20; 
+}  
+  .inbox .bbox {
+  margin: 15px;
+  border:1px solid #70B35C15; 
+   top: 15;
+  left: 15;
+}  
+  .inbox .cbox {
+  margin: 15px;
+  border:1px solid #70B35C15; 
+   top: 15;
+  left: 15;
+}  
+  .inbox .dbox {
+   margin: 15px;
+  border:1px solid #70B35C15; 
+   top: 15;
+  left: 15;
+}  
 
     /* テキスト右寄*/
 .textbox {
@@ -306,44 +279,36 @@
   right: 0;
 } 
    
-  .abox {
-  margin: 5px;
-  width: 30%; 
-  height: 500px; 
-  border:1px solid #93B4C4; 
-  background-image: url("jpg 店内 image 2.JPG"); 
-  background-repeat: no-repeat;
-  background-size: contain;
+ /* 左寄せ共通するCSS */
+.inbox img {
+  border:1px solid #10B5C5; 
+  width: 45%;       /* 適当な幅を指定 */
+  position: absolute; /* 相対位置に指定 */
 }
-
-  .bbox {
-  margin: 5px;
-  width: 30%; 
-  height: 500px; 
-  border:1px solid #93B4C4; 
-  background-image: url("jpg メニュー image 1.jpg"); 
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-  .cbox {
-  margin: 5px;
-  width: 30%; 
-  height: 500px; 
-  border:1px solid #93B4C4; 
-  background-image: url("jpg emiko image 1.JPG"); 
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-
-  .dbox {
-  margin: 5px;
-  width: 30%; 
-  height: 500px; 
-  border:1px solid #93B4C4; 
-  background-image: url("jpg 店内 image 3.JPG"); 
-  background-repeat: no-repeat;
-  background-size: contain;
-}
+  .inbox .abox {
+  margin: 15px;
+  border:1px solid #70B35C15; 
+  bottom: 20;
+  left: 20; 
+}  
+  .inbox .bbox {
+  margin: 15px;
+  border:1px solid #70B35C15; 
+   top: 15;
+  left: 15;
+}  
+  .inbox .cbox {
+  margin: 15px;
+  border:1px solid #70B35C15; 
+   top: 15;
+  left: 15;
+}  
+  .inbox .dbox {
+   margin: 15px;
+  border:1px solid #70B35C15; 
+   top: 15;
+  left: 15;
+}  
   
    /* テキスト右寄*/
 .textbox {
