@@ -13,7 +13,7 @@
   margin: 0px;
   width: 100%; 
   height: 730px; 
-  border:1px solid #70B35C15; 
+  border:1px solid red; 
   background-image: url("jpg 店内 image 1.JPG");
   background-repeat: no-repeat;
   background-size: contain;
@@ -39,7 +39,7 @@
 
 /* 共通するCSS */
 .box img {
-  border:1px solid #10B5C5; 
+  border:1px solid bule; 
   width: 25%;       /* 適当な幅を指定 */
   position: absolute; /* 相対位置に指定 */
   z-index: -10;
@@ -66,45 +66,51 @@
   right: 0;
  }  
    
+  .infobox {
+  margin: 10px;
+  width: 40%; 
+  height: 380px; 
+  border:1px solid red; 
+  background-image: url("jpg 店内 image 2.JPG");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center,bottom; 
+}    
+   
 /* 左寄せ共通するCSS */
 .inbox img {
-  border:1px solid #10B5C5; 
-  width: 45%;       /* 適当な幅を指定 */
+  border:1px solid orange; 
+  width: 25%;       /* 適当な幅を指定 */
   position: absolute; /* 相対位置に指定 */
 }
-  .inbox .abox {
-  margin: 15px;
-  border:1px solid #70B35C15; 
-  bottom: 0;
-  center: 0; 
-}  
+
   .inbox .bbox {
   margin: 15px;
-  border:1px solid #70B35C15; 
+  border:1px solid green; 
    top: 15;
   left: 15;
 }  
   .inbox .cbox {
   margin: 15px;
-  border:1px solid #70B35C15; 
+  border:1px solid pink; 
    top: 15;
   left: 15;
 }  
   .inbox .dbox {
    margin: 15px;
-  border:1px solid #70B35C15; 
+  border:1px solid skyblue; 
    top: 15;
   left: 15;
 }  
 
    /* テキスト右寄*/
 .textbox {
-  border:1px solid #10B5C5; 
+  border:1px solid plum; 
   width: 100%;      
   position: relative;
 } 
 .textinbox {
-  border:1px solid #10B5C5; 
+  border:1px solid cyan; 
   position: absolute;
   top: 50px;
   right: 50px;
@@ -179,18 +185,24 @@
   right: 0;
 } 
 
+  .infobox {
+  margin: 10px;
+  width: 40%; 
+  height: 380px; 
+  border:1px solid red; 
+  background-image: url("jpg 店内 image 2.JPG");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center,bottom; 
+}    
+
  /* 左寄せ共通するCSS */
 .inbox img {
   border:1px solid #10B5C5; 
   width: 45%;       /* 適当な幅を指定 */
   position: absolute; /* 相対位置に指定 */
 }
-  .inbox .abox {
-  margin: 15px;
-  border:1px solid #70B35C15; 
- 　bottom: 0;
-  center: 0;  
-}  
+
   .inbox .bbox {
   margin: 15px;
   border:1px solid #70B35C15; 
@@ -292,17 +304,22 @@
   right: 0;
 } 
    
+  .infobox {
+  margin: 10px;
+  width: 40%; 
+  height: 380px; 
+  border:1px solid red; 
+  background-image: url("jpg 店内 image 2.JPG");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center,bottom; 
+}    
+
  /* 左寄せ共通するCSS */
 .inbox img {
   border:1px solid #10B5C5; 
   width: 45%;       /* 適当な幅を指定 */
   position: absolute; /* 相対位置に指定 */
-}
-  .inbox .abox {
-  margin: 15px;
-  border:1px solid #70B35C15; 
-  bottom: 0;
-  center: 0; 
 }  
   .inbox .bbox {
   margin: 15px;
