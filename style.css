@@ -197,7 +197,7 @@
  /* 左寄せ共通するCSS */
 .inbox img {
   border:1px solid #10B5C5; 
-  width: 45%;       /* 適当な幅を指定 */
+  width: 25%;       /* 適当な幅を指定 */
   position: absolute; /* 相対位置に指定 */
 }
 
@@ -315,7 +315,7 @@
  /* 左寄せ共通するCSS */
 .inbox img {
   border:1px solid #10B5C5; 
-  width: 45%;       /* 適当な幅を指定 */
+  width: 25%;       /* 適当な幅を指定 */
   position: absolute; /* 相対位置に指定 */
 }  
   .inbox .bbox {
