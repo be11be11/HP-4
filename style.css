@@ -2,7 +2,8 @@
 
 @media screen and (min-width:10px) and (max-width:500px){
   .box {
-  border:1px solid #40B20C10; 
+  border:1px solid lime; 
+  margin: 15px;
   width: 100%;       /* 適当な幅を指定 */
   height: 350px;       /* 適当な高さを指定 */
   position: relative; /* 基準位置とする */
@@ -113,7 +114,8 @@
 
 @media screen and (min-width:501px) and (max-width:1400px){
    .box {
-  border:1px solid #40B20C10; 
+  border:1px solid lime; 
+   margin: 15px;
   width: 100%;       /* 適当な幅を指定 */
   height: 750px;       /* 適当な高さを指定 */
   position: relative; /* 基準位置とする */
@@ -225,7 +227,8 @@
 
 @media screen and (min-width:1400px) and (max-width:2000px){
   .box {
-  border:1px solid #40B20C10; 
+     border:1px solid lime; 
+   margin: 15px;
   width: 100%;       /* 適当な幅を指定 */
   height: 1000px;       /* 適当な高さを指定 */
   position: relative; /* 基準位置とする */
