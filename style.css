@@ -8,6 +8,16 @@
   position: relative; /* 基準位置とする */
 }
 
+   .minibox {
+  margin: 0px;
+  width: 100%; 
+  height: 730px; 
+  border:1px solid #70B35C15; 
+  background-image: url("jpg 店内 image 1.JPG");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center; 
+}
     .bar {
    position: fixed; /* 固定配置 */
    top: 10px;  /* 基点（ウィンドウ）からの距離 */
