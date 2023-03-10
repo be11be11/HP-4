@@ -67,8 +67,8 @@
  }  
    
   .infobox {
-  width: 65%; 
-  height: 175px; 
+  width: 95%; 
+  height: 200px; 
   border:1px solid tomato; 
   background-image: url("jpg 店内 image 2.JPG");
   background-repeat: no-repeat;
@@ -186,8 +186,8 @@
 } 
 
   .infobox {
-  width: 65%; 
-  height: 325px; 
+  width: 95%; 
+  height: 350px; 
   border:1px solid tomato; 
   background-image: url("jpg 店内 image 2.JPG");
   background-repeat: no-repeat;
@@ -305,8 +305,8 @@
 } 
    
   .infobox {
-  width: 65%; 
-  height: 500px; 
+  width: 95%; 
+  height: 450px; 
   border:1px solid tomato; 
   background-image: url("jpg 店内 image 2.JPG");
   background-repeat: no-repeat;
