@@ -3,12 +3,25 @@
 @media screen and (min-width:10px) and (max-width:500px){
   .box {
   border:2px solid lime; 
-  margin: 1px;
   width: 100%;       /* 適当な幅を指定 */
   height: 350px;       /* 適当な高さを指定 */
   position: relative; /* 基準位置とする */
+　display: flex;
 }
 
+ .box>div {
+    height: 345px;
+    border:1px solid teal; 
+    background-color:rgba(0,150,250,0.2);
+}    
+   .sikiri {
+  border:2px solid violet; 
+  margin: 1px;
+  width: 100%;       /* 適当な幅を指定 */
+  height: 75px;       /* 適当な高さを指定 */
+  position: relative; /* 基準位置とする */
+}
+     
    .minibox {
   margin: 0px;
   width: 100%; 
@@ -30,16 +43,16 @@
   
    p {
   text-align:center; 
-  line-height: 60px;
+  line-height: 90%;
 }
   
    .fixed p {
-  line-height: 20px;
+  line-height: 85%;
 }
 
 /* 共通するCSS */
 .box img {
-  border:1px solid bule; 
+  border:1px solid aqua; 
   width: 25%;       /* 適当な幅を指定 */
   position: absolute; /* 相対位置に指定 */
   z-index: -10;
@@ -79,7 +92,7 @@
 /* 左寄せ共通するCSS */
 .inbox img {
   border:1px solid orange; 
-  width: 25%;       /* 適当な幅を指定 */
+  width: 35%;       /* 適当な幅を指定 */
   position: absolute; /* 相対位置に指定 */
 }
 
@@ -112,16 +125,30 @@
   border:1px solid cyan; 
 　 width: 35%;
   position: absolute;
-  top: 50px;
-  right: 50px;
+  top: 70px;
+  right: 10px;
+　line-height: 85%;
+　verflow-wrap: break-word;
+　text-align: start;
 }     
   
 }
+
+
 
 @media screen and (min-width:501px) and (max-width:1400px){
    .box {
   border:2px solid lime; 
    margin: 1px;
+  width: 100%;       /* 適当な幅を指定 */
+  height: 750px;       /* 適当な高さを指定 */
+  position: relative; /* 基準位置とする */
+  box-sizing: border-box;   
+}
+  
+    .sikiri {
+  border:2px solid violet; 
+  margin: 1px;
   width: 100%;       /* 適当な幅を指定 */
   height: 750px;       /* 適当な高さを指定 */
   position: relative; /* 基準位置とする */
@@ -244,8 +271,17 @@
   width: 100%;       /* 適当な幅を指定 */
   height: 1000px;       /* 適当な高さを指定 */
   position: relative; /* 基準位置とする */
+  box-sizing: border-box;   
 }
-   
+ 
+      .sikiri {
+  border:2px solid violet; 
+  margin: 1px;
+  width: 100%;       /* 適当な幅を指定 */
+  height: 1000px;       /* 適当な高さを指定 */
+  position: relative; /* 基準位置とする */
+}
+  
    .minibox {
   margin: 0px;
   width: 100%; 
