@@ -28,66 +28,66 @@ p.text4 {border:2px solid orange; width: 90%; background-color: rgba(250, 100, 5
 }
 
 /* 共通するCSS */
-.box hair img {
+.box6 img{
   border:1px solid aqua; 
   width: 25%;       /* 適当な幅を指定 */
   position: absolute; /* 相対位置に指定 */
   z-index: -10;
 }
 
-.box hair .ヘア1 {
+.box6 .ヘア1 {
   /* 左上に固定 */
   top: 0;
   left: 0;
 }
-.box hair .ヘア2 {
+.box6 .ヘア2 {
   /* 右下に固定 */
   bottom: -5px;
   left: 90px;
 }
-.box hair .ヘア3 {
+.box6 .ヘア3 {
   /* 右下に固定 */
   top: 0;
   right: 90px;
 }
-.box hair .ヘア4 {
+.box6 .ヘア4 {
   /* 右下に固定 */
   bottom: -5px;
   right: 0;
  }  
 
-.box6 img{
+.box7 img{
   border:2px solid blue;
   position: absolute;
   width: 45%;
 　margin-right: auto;
 }
 
-.box6 .メニュー1 {
+.box7 .メニュー1 {
  margin-right: auto;
 }
-p.text7 {border:2px solid pink; width: 50%; background-color: rgba(250, 100, 50, 0.3); margin-left: auto; }
-.box8 img{
+p.text8 {border:2px solid pink; width: 50%; background-color: rgba(250, 100, 50, 0.3); margin-left: auto; }
+.box9 img{
   border:2px solid blue;
   position: absolute;
   width: 45%;
   margin-right: auto;
 }
 
-.box8 .emiko1 {
+.box9 .emiko1 {
  margin-right: auto;
 }
-p.text9 {border:2px solid blue; width: 50%; background-color: rgba(0, 200, 100, 0.3); margin-left: auto; }
-.box10 img{
+p.text10 {border:2px solid blue; width: 50%; background-color: rgba(0, 200, 100, 0.3); margin-left: auto; }
+.box11 img{
   border:2px solid blue;
   position: absolute;
   width: 45%;
 　margin-right: auto;
 }
 
-.box10 .店内3 {
+.box11 .店内3 {
  margin-right: auto;
 }
-p.text11 {border:2px solid pink; width: 50%; background-color: rgba(250, 100, 50, 0.3); margin-left: auto; }
+p.text12 {border:2px solid pink; width: 50%; background-color: rgba(250, 100, 50, 0.3); margin-left: auto; }
 
 }  
