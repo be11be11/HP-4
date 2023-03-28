@@ -26,6 +26,36 @@ p.text4 {border:2px solid orange; width: 90%; background-color: rgba(250, 100, 5
 .box5 .店内2 {
  margin: auto;
 }
+
+/* 共通するCSS */
+.box hair img {
+  border:1px solid aqua; 
+  width: 25%;       /* 適当な幅を指定 */
+  position: absolute; /* 相対位置に指定 */
+  z-index: -10;
+}
+
+.box hair .ヘア1 {
+  /* 左上に固定 */
+  top: 0;
+  left: 0;
+}
+.box hair .ヘア2 {
+  /* 右下に固定 */
+  bottom: -5px;
+  left: 90px;
+}
+.box hair .ヘア3 {
+  /* 右下に固定 */
+  top: 0;
+  right: 90px;
+}
+.box hair .ヘア4 {
+  /* 右下に固定 */
+  bottom: -5px;
+  right: 0;
+ }  
+
 .box6 img{
   border:2px solid blue;
   position: absolute;
