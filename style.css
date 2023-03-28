@@ -32,7 +32,6 @@ p.text4 {border:2px solid orange; width: 90%; background-color: rgba(250, 100, 5
   border:1px solid aqua; 
   width: 25%;       /* 適当な幅を指定 */
   position: absolute; /* 相対位置に指定 */
-  z-index: -10;
 }
 
 .box6 .ヘア1 {
