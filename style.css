@@ -30,7 +30,7 @@ p.text4 {border:2px solid orange; width: 90%; background-color: rgba(250, 100, 5
 /* 共通するCSS */
 .box6 img{
   border:1px solid aqua; 
-  position: absolute; 
+  position: relative;
   width: 25%;       /* 適当な幅を指定 */
 }
 
