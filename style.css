@@ -31,28 +31,28 @@ p.text4 {border:2px solid orange; width: 90%; background-color: rgba(250, 100, 5
 .box6 img{
   border:1px solid aqua; 
   position: absolute; 
-  width: 35%;       /* 適当な幅を指定 */
+  width: 40%;       /* 適当な幅を指定 */
 }
 
 .box6 .ヘア1 {
   /* 左上に固定 */
-  top: 30px;
-  left: 0;
+  top: 50px;
+  left: 10;
 }
 .box6 .ヘア2 {
   /* 右下に固定 */
-  bottom: 30px;
-  left: 95px;
+  bottom: 50px;
+  left: 110px;
 }
 .box6 .ヘア3 {
   /* 右下に固定 */
-  top: 30px;
-  right: 95px;
+  top: 50px;
+  right: 110px;
 }
 .box6 .ヘア4 {
   /* 右下に固定 */
-  bottom: 30px;
-  right: 0;
+  bottom: 50px;
+  right: 10;
  }  
 
 .box7 img{
