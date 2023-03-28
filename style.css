@@ -36,22 +36,22 @@ p.text4 {border:2px solid orange; width: 90%; background-color: rgba(250, 100, 5
 
 .box6 .ヘア1 {
   /* 左上に固定 */
-  top: 0;
+  top: 30px;
   left: 0;
 }
 .box6 .ヘア2 {
   /* 右下に固定 */
-  bottom: -5px;
-  left: 90px;
+  bottom: 30px;
+  left: 95px;
 }
 .box6 .ヘア3 {
   /* 右下に固定 */
-  top: 0;
-  right: 90px;
+  top: 30px;
+  right: 95px;
 }
 .box6 .ヘア4 {
   /* 右下に固定 */
-  bottom: -5px;
+  bottom: 30px;
   right: 0;
  }  
 
