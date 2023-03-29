@@ -65,7 +65,7 @@ p.text4 {border:2px solid orange; width: 90%; background-color: rgba(250, 100, 5
   left: 10px; 
   margin-top: 80px; 
 }
-p.text8 {border:2px solid pink; width: 45%; background-color: rgba(250, 100, 50, 0.3); margin-right: 5px; margin-top: 80px; }
+p.text8 {border:2px solid pink; width: 45%; background-color: rgba(250, 100, 50, 0.3); margin-left: 5px; margin-top: 80px; }
 .box9 img{
   border:2px solid blue;
   position: absolute;
@@ -76,7 +76,7 @@ p.text8 {border:2px solid pink; width: 45%; background-color: rgba(250, 100, 50,
  left: 10px; 
  margin-top: 80px; 
 }
-p.text10 {border:2px solid blue; width: 45%; background-color: rgba(0, 200, 100, 0.3); margin-right: 5px; margin-top: 80px; }
+p.text10 {border:2px solid blue; width: 45%; background-color: rgba(0, 200, 100, 0.3); margin-left: 5px; margin-top: 80px; }
 .box11 img{
   border:2px solid blue;
   position: absolute;
@@ -87,6 +87,6 @@ p.text10 {border:2px solid blue; width: 45%; background-color: rgba(0, 200, 100,
  left: 10px; 
   margin-top: 80px; 
 }
-p.text12 {border:2px solid pink; width: 45%; background-color: rgba(250, 100, 50, 0.3); margin-right: 5px; margin-top: 80px; }
+p.text12 {border:2px solid pink; width: 45%; background-color: rgba(250, 100, 50, 0.3); margin-left: 5px; margin-top: 80px; }
 
 }  
