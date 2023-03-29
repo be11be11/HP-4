@@ -7,11 +7,13 @@ div.main1 {border:1px solid red; background-color: rgba(50, 50, 10, 0.1); }
 nav ul{
  margin: 0px;
  padding: 0px;
+　z-index: 10;
 }
 
 nav ul li{
 list-style-type: none;
 text-align: center; 
+z-index: 10;
 } 
 
 nav a{
@@ -22,6 +24,7 @@ display: block;
  float: right;
  background-color: lime;
  color: purple;
+　z-index: 10;
 }
 
 nav a:hover{
