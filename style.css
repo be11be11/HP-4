@@ -37,7 +37,7 @@ p.text4 {border:2px solid orange; width: 90%; background-color: rgba(250, 100, 5
 .box6 .ヘア1 {
   /* 左上に固定 */
   top: 50px;
-  left: 10;
+  left: 10px;
 }
 .box6 .ヘア2 {
   /* 右下に固定 */
@@ -52,7 +52,7 @@ p.text4 {border:2px solid orange; width: 90%; background-color: rgba(250, 100, 5
 .box6 .ヘア4 {
   /* 右下に固定 */
   bottom: 50px;
-  right: 10;
+  right: 10px;
  }  
 
 .box7 img{
