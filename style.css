@@ -57,15 +57,13 @@ p.text4 {border:2px solid orange; width: 90%; background-color: rgba(250, 100, 5
 
 .box7 img{
   border:2px solid blue;
-  position: absolute;
   width: 45%;
-　margin-right: auto;
 }
 
 .box7 .メニュー1 {
- margin-right: auto;
+  margin-right: 15px; margin-top: 80px; 
 }
-p.text8 {border:2px solid pink; width: 50%; background-color: rgba(250, 100, 50, 0.3); margin-left: auto; }
+p.text8 {border:2px solid pink; width: 45%; background-color: rgba(250, 100, 50, 0.3); margin-left: auto; margin-top: 100px; }
 .box9 img{
   border:2px solid blue;
   position: absolute;
