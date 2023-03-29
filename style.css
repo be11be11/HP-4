@@ -42,12 +42,12 @@ p.text4 {border:2px solid orange; width: 90%; background-color: rgba(250, 100, 5
 .box6 .ヘア2 {
   /* 右下に固定 */
   bottom: 50px;
-  right: 100px;
+  right: 175px;
 }
 .box6 .ヘア3 {
   /* 右下に固定 */
   top: 50px;
-  left: 100px;
+  left: 175px;
 }
 .box6 .ヘア4 {
   /* 右下に固定 */
