@@ -70,22 +70,22 @@ p.text8 {border:2px solid pink; width: 45%; background-color: rgba(250, 100, 50,
   border:2px solid blue;
   position: absolute;
   width: 45%;
-  margin-right: auto;
 }
 
 .box9 .emiko1 {
- margin-right: auto;
+ left: 10px; 
+ margin-top: 80px; 
 }
 p.text10 {border:2px solid blue; width: 50%; background-color: rgba(0, 200, 100, 0.3); margin-left: auto; }
 .box11 img{
   border:2px solid blue;
   position: absolute;
   width: 45%;
-　margin-right: auto;
 }
 
 .box11 .店内3 {
- margin-right: auto;
+ left: 10px; 
+  margin-top: 80px; 
 }
 p.text12 {border:2px solid pink; width: 50%; background-color: rgba(250, 100, 50, 0.3); margin-left: auto; }
 
