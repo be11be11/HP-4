@@ -29,7 +29,7 @@ display: block;
 }
 
 nav a:hover{
-background-color::rgba(50,0,150,0.3);
+background-color:rgba(50,0,150,0.3);
  color: blue;
 }
 
