@@ -7,8 +7,8 @@ div.main1 {border:1px solid red; background-color: rgba(50, 50, 10, 0.1); }
 nav ul {
    position: fixed; /* 固定配置 */
    top: 10px;  /* 基点（ウィンドウ）からの距離 */
-   right: 20px;  /* 基点（ウィンドウ）からの距離 */
-   width: 20%;
+   right: 10px;  /* 基点（ウィンドウ）からの距離 */
+   width: ;
    border:2px solid teal; 
    background-color: rgba(0,250,200,0.2);
 }
@@ -20,9 +20,9 @@ text-align: center;
 
 nav a {
  display: block;
- font-size: 16px;
+ font-size: 8px;
  line-height: 3em;
- width: 20%;
+ width: 30%;
  float: right;
  background-color: rgba(0,250,50,0.3);
  color: purple;
