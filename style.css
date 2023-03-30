@@ -26,7 +26,7 @@ p {
   z-index: 10;    
 }
 
-div.box2 {border:4px solid lime; height: 650px; background-color: rgba(200, 0, 50, 0.3); position: relative; }
+div.box2 {border:4px solid lime; height: 650px; background-color: rgba(200, 0, 50, 0.3); position:relative; }
 .box3 img{
   border:2px solid blue;
   position: absolute;
@@ -105,15 +105,16 @@ p.text10 {border:2px solid blue; width: 45%; background-color: rgba(0, 200, 100,
 
 .box13 img {
   border:2px solid pink;
-   top: 20px;
-　 left: 75px;
+   margin-top: 20px;
+　 margin-left: 75px;
   width: 25%;  
-　position: relative; 
+　position:relative; 
 }
 
 .box13 .sns1 {
- top: 20px;
- left: 75px;
+ margin-top: 20px;
+ margin-left: 75px;
+　position:relative;
 }  
 
 .box13 a.sns1:hover img {
