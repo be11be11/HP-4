@@ -110,8 +110,8 @@ p.text10 {border:2px solid blue; width: 45%; background-color: rgba(0, 200, 100,
 }
 
 .box13 .sns1 {
- left: 100px; 
-  margin-top: 20px; 
+ top: 20px;
+ left: 75px;
 }  
 
 .box13 a.sns1:hover img {
@@ -126,9 +126,9 @@ p.text10 {border:2px solid blue; width: 45%; background-color: rgba(0, 200, 100,
 
 .box11 .店内3 {
  left: 10px; 
-  margin-top: 100px; 
+  margin-top: 200px; 
 }
   
-p.text12 {border:2px solid pink; width: 45%; background-color: rgba(250, 100, 50, 0.3); margin-top: 80px; margin-left: auto; }
+p.text12 {border:2px solid pink; width: 45%; background-color: rgba(250, 100, 50, 0.3); margin-top: 200px; margin-left: auto; }
 
 }  
