@@ -105,8 +105,10 @@ p.text10 {border:2px solid blue; width: 45%; background-color: rgba(0, 200, 100,
 
 .box13 img {
   border:2px solid pink;
-  position: absolute;
+   top: 20px;
+　 left: 75px;
   width: 25%;  
+　position: relative; 
 }
 
 .box13 .sns1 {
