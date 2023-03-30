@@ -103,18 +103,20 @@ p.text8 {border:2px solid pink; width: 45%; background-color: rgba(250, 100, 50,
 }
 p.text10 {border:2px solid blue; width: 45%; background-color: rgba(0, 200, 100, 0.3); margin-top: 80px; margin-left: auto; }
 
-.box13 a.sns1:hover img {
-  opacity: 0.6;
-
+.box13 img {
   border:2px solid pink;
   position: absolute;
-  width: 25%;
+  width: 25%;  
 }
 
 .box13 .sns1 {
- left: 150px; 
+ left: 100px; 
   margin-top: 20px; 
 }  
+
+.box13 a.sns1:hover img {
+  opacity: 0.6;
+}
   
 .box11 img{
   border:2px solid blue;
