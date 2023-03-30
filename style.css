@@ -104,6 +104,20 @@ p.text8 {border:2px solid pink; width: 45%; background-color: rgba(250, 100, 50,
  margin-top: 80px; 
 }
 p.text10 {border:2px solid blue; width: 45%; background-color: rgba(0, 200, 100, 0.3); margin-top: 80px; margin-left: auto; }
+
+.box13 a.sns1:hover img {
+  opacity: 0.6;
+
+  border:2px solid pink;
+  position: absolute;
+  width: 25%;
+}
+
+.box13 .sns1 {
+ left: 150px; 
+  margin-top: 20px; 
+}  
+  
 .box11 img{
   border:2px solid blue;
   position: absolute;
@@ -112,8 +126,9 @@ p.text10 {border:2px solid blue; width: 45%; background-color: rgba(0, 200, 100,
 
 .box11 .店内3 {
  left: 10px; 
-  margin-top: 80px; 
+  margin-top: 100px; 
 }
+  
 p.text12 {border:2px solid pink; width: 45%; background-color: rgba(250, 100, 50, 0.3); margin-top: 80px; margin-left: auto; }
 
 }  
