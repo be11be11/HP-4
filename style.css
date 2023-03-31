@@ -90,7 +90,7 @@ p.text4 {border:2px solid orange; width: 90%; background-color: rgba(250, 100, 5
   left: 10px; 
   margin-top: 80px; 
 }
-p.text8 {border:2px solid pink; width: 45%; background-color: rgba(250, 100, 50, 0.3); margin-top: 80px; margin-left: auto; }
+p.text8 {border:2px solid aqua; width: 45%; background-color: rgba(250, 100, 50, 0.3); margin-top: 80px; margin-left: auto; }
 .box9 img{
   border:2px solid blue;
   position: absolute;
@@ -101,7 +101,7 @@ p.text8 {border:2px solid pink; width: 45%; background-color: rgba(250, 100, 50,
  left: 10px; 
  margin-top: 80px; 
 }
-p.text10 {border:2px solid blue; width: 45%; background-color: rgba(0, 200, 100, 0.3); margin-top: 80px; margin-left: auto; }
+p.text10 {border:2px solid aqua; width: 45%; background-color: rgba(0, 200, 100, 0.3); margin-top: 80px; margin-left: auto; }
 
 .box13 img {
   border:2px solid pink;
@@ -120,18 +120,36 @@ p.text10 {border:2px solid blue; width: 45%; background-color: rgba(0, 200, 100,
 .box13 a.sns1:hover img {
   opacity: 0.6;
 }
+
+.box14 img {
+  border:2px solid blue;
+   margin-top: 20px;
+　 margin-right: 75px;
+  width: 25%;  
+　position:relative; 
+}
+
+.box14 .sns1 {
+ margin-top: 20px;
+ margin-right: 75px;
+　position:relative;
+}  
+
+.box14 a.sns2:hover img {
+  opacity: 0.6;
+}
   
 .box11 img{
-  border:2px solid blue;
+  border:2px solid orange;
   position: absolute;
   width: 45%;
 }
 
 .box11 .店内3 {
  left: 10px; 
-  margin-top: 100px; 
+  margin-top: 75px; 
 }
   
-p.text12 {border:2px solid pink; width: 45%; background-color: rgba(250, 100, 50, 0.3); margin-top: 100px; margin-left: auto; }
+p.text12 {border:2px solid aqua; width: 45%; background-color: rgba(250, 100, 50, 0.3); margin-top: 100px; margin-left: auto; }
 
 }  
