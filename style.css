@@ -123,16 +123,16 @@ p.text10 {border:2px solid aqua; width: 45%; background-color: rgba(0, 200, 100,
 
 .box14 img {
   border:2px solid blue;
-  position:absolute;
-  top: 20px;
-  left: 75px;
+   margin-top: 20px;
+　 margin-right: 75px;
   width: 25%;  
+　position:relative; 
 }
 
 .box14 .sns2 {
- position: absolute;
- top: 5px;
- left: 5px;
+ margin-top: 20px;
+ margin-right: 75px;
+　position:relative;
 }  
 
 .box14 a.sns2:hover img {
