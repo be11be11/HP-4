@@ -124,15 +124,13 @@ p.text10 {border:2px solid aqua; width: 45%; background-color: rgba(0, 200, 100,
 .box14 img {
   border:2px solid blue;
    margin-top: 20px;
-　 margin-right: 75px;
   width: 25%;  
-　position: absolute;
+　margin-left: auto; 
 }
 
 .box14 .sns2 {
  margin-top: 20px;
- margin-right: 75px;
-position: absolute;
+margin-left: auto; 
 }  
 
 .box14 a.sns2:hover img {
